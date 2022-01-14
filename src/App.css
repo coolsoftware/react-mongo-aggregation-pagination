@@ -1,0 +1,29 @@
+.App {
+  background-color: white;
+  width: 800px;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e9ecef;
+  padding: 1rem;
+}
+
+.contacts-title {
+  white-space: nowrap;
+  background-color: white;
+  padding: 0rem 0rem 0.5rem 0rem;
+  font-size: x-large;
+}
+
+.contacts-container {
+  padding: 1rem;
+}
+
+.item-action {
+  margin: 0 0.5rem 0rem 0.5rem;
+  cursor: pointer;  
+  white-space: nowrap;
+}
